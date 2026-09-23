@@ -18,9 +18,14 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgresql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,vscode"/>
 
 </p>
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
