@@ -18,7 +18,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgresql,git,github,vscode"/>
 
 </p>
 
@@ -34,8 +34,6 @@ Passionate about building modern websites, learning new technologies, and creati
 🌈 Master CSS
 ⚡ Master JavaScript
 🛸 Learn React
+🔧 Learn Node.js & Express.js
+🗄️ Learn MongoDB & SQL
 🚀 Build Real Projects
-```
-
-<!-- ## 🪼 Activity -->
-
