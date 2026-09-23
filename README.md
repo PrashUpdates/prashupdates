@@ -33,7 +33,7 @@ Passionate about building modern websites, learning new technologies, and creati
 ```text
 🌈 Master CSS
 ⚡ Master JavaScript
-🐍 Learn Python
+🛸 Learn React
 🚀 Build Real Projects
 ```
 
