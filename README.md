@@ -31,12 +31,18 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
-## 🔖 Objectives
+## 🧩 What's In The Pipeline
 
-```text
-🌈 Master CSS
-⚡ Master JavaScript
-🛸 Learn React
-🔧 Learn Node.js & Express.js
-🗄️ Learn MongoDB & SQL
-🚀 Build Real Projects
+| Technology | Status | Focus |
+|:----------:|:------:|:-----:|
+| 🌐 HTML | 🟢 **Solid** | Core |
+| 🎨 CSS | 🟢 **Solid** | Core |
+| ⚡ JavaScript | 🟡 **Learning** | Current |
+| ⚛️ React | 🟡 **Learning** | Current |
+| 🟢 Node.js | 🔵 **Next** | Backend |
+| 🚂 Express.js | 🔵 **Next** | Backend |
+| 🍃 MongoDB | 🔵 **Next** | Database |
+| 🗄️ SQL | 🟢 **Solid** | Database |
+| 🔧 Git | 🟢 **Solid** | Workflow |
+| 🐙 GitHub | 🟢 **Solid** | Workflow |
+| 💻 VS Code | 🟢 **Solid** | Development |
