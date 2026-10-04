@@ -10,7 +10,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=4500&pause=2500&color=C9D1D9&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Experiences;Passionate+About+Web+Development;Creating+Clean+%26+Responsive+UI;Learning+Something+New+Every+Day;Turning+Ideas+Into+Code;Code+With+Purpose;Building+One+Commit+At+A+Time;Crafting+The+Future+With+Code;Obsessed+With+Clean+Code;Turning+Vision+Into+Reality;Learning+Never+Stops;Engineering+Ideas+Into+Reality;Always+Building+Always+Improving;Code+Less+Think+More;Creating+Tomorrow+Today"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=4500&pause=2500&color=C9D1D9&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Experiences;Passionate+About+Web+Development;Creating+Clean+%26+Responsive+UI;Learning+Something+New+Every+Day;Turning+Ideas+Into+Code;Code+With+Purpose;Building+One+Commit+At+A+Time;Crafting+The+Future+With+Code;Obsessed+With+Clean+Code;Turning+Vision+Into+Reality;Learning+Never+Stops;Engineering+Ideas+Into+Reality;Always+Building+Always+Improving;Code+Less+Think+More;Creating+Tomorrow+Today" />
 </p>
 
 
