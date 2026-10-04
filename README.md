@@ -47,7 +47,7 @@ Passionate about building modern websites, learning new technologies, and creati
 | 🟢 Node.js | 🟠 **Familiar** | Backend |
 | 🚂 Express.js | 🟠 **Familiar** | Backend |
 | 🍃 MongoDB | 🔵 **Next** | Database |
-| 🗄️ SQL | 🟢 **Solid** | Database |
+| 🗄️ SQL | 🟠 **Familiar** | Database |
 | 🔧 Git | 🟢 **Solid** | Workflow |
 | 🐙 GitHub | 🟢 **Solid** | Workflow |
 | 💻 VS Code | 🟢 **Solid** | Development |
