@@ -120,3 +120,45 @@ Passionate about building modern websites, learning new technologies, and creati
     <td>Development</td>
   </tr>
 </table>
+
+
+
+
+
+
+
+<h2>🧩 What's In The Pipeline</h2>
+
+<p>
+  Building the foundation, sharpening my skills, and moving toward full-stack development. 🚀
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🟢 Solid</h3>
+      <p>
+        🌐 HTML &nbsp; 🎨 CSS<br>
+        🗄️ SQL &nbsp; 🔧 Git<br>
+        🐙 GitHub &nbsp; 💻 VS Code
+      </p>
+    </td>
+
+    <td align="center" width="33%">
+      <h3>🟡 Learning</h3>
+      <p>
+        ⚡ JavaScript<br>
+        ⚛️ React
+      </p>
+    </td>
+
+    <td align="center" width="33%">
+      <h3>🔵 Next</h3>
+      <p>
+        🟢 Node.js<br>
+        🚂 Express.js<br>
+        🍃 MongoDB
+      </p>
+    </td>
+  </tr>
+</table>
