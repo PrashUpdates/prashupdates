@@ -49,3 +49,74 @@ Passionate about building modern websites, learning new technologies, and creati
 | 🔧 Git | 🟢 **Solid** | Workflow |
 | 🐙 GitHub | 🟢 **Solid** | Workflow |
 | 💻 VS Code | 🟢 **Solid** | Development |
+
+
+
+<h2>🧩 What's In The Pipeline</h2>
+
+<p>
+  Building the foundation, sharpening the skills, and moving toward full-stack development. 🚀
+</p>
+
+<table width="100%">
+  <tr>
+    <th>Technology</th>
+    <th>Status</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td>🌐 HTML</td>
+    <td>🟢 <b>Solid</b></td>
+    <td>Core</td>
+  </tr>
+  <tr>
+    <td>🎨 CSS</td>
+    <td>🟢 <b>Solid</b></td>
+    <td>Core</td>
+  </tr>
+  <tr>
+    <td>⚡ JavaScript</td>
+    <td>🟡 <b>Learning</b></td>
+    <td>Current</td>
+  </tr>
+  <tr>
+    <td>⚛️ React</td>
+    <td>🟡 <b>Learning</b></td>
+    <td>Current</td>
+  </tr>
+  <tr>
+    <td>🟢 Node.js</td>
+    <td>🔵 <b>Next</b></td>
+    <td>Backend</td>
+  </tr>
+  <tr>
+    <td>🚂 Express.js</td>
+    <td>🔵 <b>Next</b></td>
+    <td>Backend</td>
+  </tr>
+  <tr>
+    <td>🍃 MongoDB</td>
+    <td>🔵 <b>Next</b></td>
+    <td>Database</td>
+  </tr>
+  <tr>
+    <td>🗄️ SQL</td>
+    <td>🟢 <b>Solid</b></td>
+    <td>Database</td>
+  </tr>
+  <tr>
+    <td>🔧 Git</td>
+    <td>🟢 <b>Solid</b></td>
+    <td>Workflow</td>
+  </tr>
+  <tr>
+    <td>🐙 GitHub</td>
+    <td>🟢 <b>Solid</b></td>
+    <td>Workflow</td>
+  </tr>
+  <tr>
+    <td>💻 VS Code</td>
+    <td>🟢 <b>Solid</b></td>
+    <td>Development</td>
+  </tr>
+</table>
