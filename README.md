@@ -18,11 +18,11 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,typescript,vite,react"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vite,react,nodejs"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgresql,git,github,vscode"/>
 
 </p>
 
