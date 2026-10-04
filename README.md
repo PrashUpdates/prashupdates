@@ -31,7 +31,10 @@ Passionate about building modern websites, learning new technologies, and creati
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
+
 ## 🧩 What's In The Pipeline
+
+> Building the foundation, sharpening the skills, and moving toward full-stack development. 🚀
 
 | Technology | Status | Focus |
 |:----------:|:------:|:-----:|
