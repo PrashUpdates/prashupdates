@@ -18,11 +18,11 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,typescript,vite,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,vite,react,nodejs,express"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgresql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,vscode"/>
 
 </p>
 
@@ -30,7 +30,6 @@ Passionate about building modern websites, learning new technologies, and creati
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
 
 ## 🔖 Objectives
 
