@@ -62,8 +62,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🎬 Netflix Plan Selection
 
-A responsive JavaScript calculator designed to handle basic arithmetic operations
-with a clean interface and interactive controls.
+A responsive Netflix-inspired plan selection page built using **HTML, CSS & JavaScript**.
 
 <p>
 <a href="https://github.com/PrashUpdates/CLONES/blob/main/Netflix%20Premium/README.md">
