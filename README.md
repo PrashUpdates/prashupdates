@@ -66,7 +66,7 @@ A responsive JavaScript calculator designed to handle basic arithmetic operation
 with a clean interface and interactive controls.
 
 <p>
-<a href="https://your-project.pages.dev">
+<a href="https://github.com/PrashUpdates/CLONES/blob/main/Netflix%20Premium/README.md">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-↗-111111?style=for-the-badge">
 </a>
 </p>
