@@ -54,13 +54,13 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 
-## 🚀 Featured Projects
+## 🛸 Featured Projects
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-### 🧮 Dynamic Calculator
+## 🎬 Netflix Plan Selection
 
 A responsive JavaScript calculator designed to handle basic arithmetic operations
 with a clean interface and interactive controls.
