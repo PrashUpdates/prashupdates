@@ -56,35 +56,20 @@ Passionate about building modern websites, learning new technologies, and creati
 
 ## 🚀 Featured Projects
 
-> A collection of projects I've built while learning, experimenting, and turning ideas into working applications.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🧮 Dynamic Calculator
 
-A responsive calculator built with HTML, CSS and JavaScript, featuring dynamic calculations and error handling.
+A responsive JavaScript calculator designed to handle basic arithmetic operations
+with a clean interface and interactive controls.
 
-**Tech:** `HTML` `CSS` `JavaScript`
-
+<p>
 <a href="https://your-project.pages.dev">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-↗-111111?style=for-the-badge">
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔄 Dynamic Counter
-
-A simple interactive counter built to practice JavaScript DOM manipulation and event handling.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-<a href="https://your-project.pages.dev">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Demo">
-</a>
+</p>
 
 </td>
 </tr>
