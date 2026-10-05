@@ -66,7 +66,7 @@ A responsive Netflix-inspired plan selection page built using **HTML, CSS & Java
 
 <p>
 <a href="https://github.com/PrashUpdates/CLONES/blob/main/Netflix%20Premium/README.md">
-  <img src="https://img.shields.io/badge/VIEW%20README-📖-5865F2?style=for-the-badge" alt="View README">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-↗-7C3AED?style=for-the-badge" alt="Explore Project">
 </a>
 </a>
 </p>
