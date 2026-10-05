@@ -70,6 +70,16 @@ A responsive Netflix-inspired plan selection page built using **HTML, CSS & Java
 </a>
 </p>
 
+## 🎬 Netflix Plan Selection
+
+A responsive Netflix-inspired plan selection page built using **HTML, CSS & JavaScript**.
+
+<p>
+<a href="https://github.com/PrashUpdates/CLONES/blob/main/Spotify%20Premium/README.md">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-↗-7C3AED?style=for-the-badge" alt="Explore Project">
+</a>
+</p>
+
 </td>
 </tr>
 </table>
