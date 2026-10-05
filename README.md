@@ -60,7 +60,7 @@ Passionate about building modern websites, learning new technologies, and creati
 <tr>
 <td width="100%" valign="top">
 
-## 🎬 Netflix Plan Selection
+## 🌈 Netflix Plan Selection
 
 A responsive Netflix-inspired plan selection page built using **HTML, CSS & JavaScript**.
 
@@ -70,7 +70,7 @@ A responsive Netflix-inspired plan selection page built using **HTML, CSS & Java
 </a>
 </p>
 
-## ✳️ Spotify Premium Section
+## 🍋‍🟩 Spotify Premium Section
 
 A responsive Spotify-inspired Premium pricing section built using HTML and CSS.
 
