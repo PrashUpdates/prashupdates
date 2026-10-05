@@ -70,9 +70,9 @@ A responsive Netflix-inspired plan selection page built using **HTML, CSS & Java
 </a>
 </p>
 
-## 🎬 Netflix Plan Selection
+## ✳️ Spotify Premium Section
 
-A responsive Netflix-inspired plan selection page built using **HTML, CSS & JavaScript**.
+A responsive Spotify-inspired Premium pricing section built using HTML and CSS.
 
 <p>
 <a href="https://github.com/PrashUpdates/CLONES/blob/main/Spotify%20Premium/README.md">
