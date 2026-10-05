@@ -35,7 +35,7 @@ Passionate about building modern websites, learning new technologies, and creati
 ## 🧩 What's In The Pipeline
 
 
-> Building the foundation, sharpening the skills, and moving toward full-stack development. 🚀
+> Moving toward full-stack development.
 
 
 | Technology | Status | Focus |
