@@ -39,7 +39,7 @@ Passionate about building modern websites, learning new technologies, and creati
 
 
 | Technology | Status | Focus |
-|:----------:|:------:|:-----:|
+|:-------------:|:---------:|:--------:|
 | 🌐 HTML | 🟢 **Solid** | Core |
 | 🎨 CSS | 🟢 **Solid** | Core |
 | ⚡ JavaScript | 🟡 **Learning** | Current |
