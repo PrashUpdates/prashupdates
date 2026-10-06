@@ -53,6 +53,24 @@ Passionate about building modern websites, learning new technologies, and creati
 | 💻 VS Code | 🟢 **Solid** | Development |
 
 
+## 🧩 What's In The Pipeline
+
+> Moving toward full-stack development.
+
+| Technology | Status | Focus |
+| :--- | :---: | :--- |
+| 🌐 HTML | 🟢 **Solid** | Core |
+| 🎨 CSS | 🟢 **Solid** | Core |
+| ⚡ JavaScript | 🟡 **Learning** | Current |
+| ⚛️ React | 🟡 **Learning** | Current |
+| 🟢 Node.js | 🟠 **Familiar** | Backend |
+| 🚂 Express.js | 🟠 **Familiar** | Backend |
+| 🍃 MongoDB | 🔵 **Next** | Database |
+| 🗄️ SQL | 🟠 **Familiar** | Database |
+| 🔧 Git | 🟢 **Solid** | Workflow |
+| 🐙 GitHub | 🟢 **Solid** | Workflow |
+| 💻 VS Code | 🟢 **Solid** | Development |
+
 
 ## 🛸 Featured Projects
 
