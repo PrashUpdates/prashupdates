@@ -24,6 +24,10 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,github,vscode"/>
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind, bootstrap,python,java"/>
+
 </p>
 
 
