@@ -36,32 +36,22 @@ Passionate about building modern websites, learning new technologies, and creati
 </p>
 
 
-## 🛸 Featured Projects
+```html
+## 🌐 Let's Connect
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
-## 🌈 Netflix Plan Selection
-
-A responsive Netflix-inspired plan selection page built using **HTML, CSS & JavaScript**.
-
-<p>
-<a href="https://github.com/PrashUpdates/CLONES/blob/main/Netflix%20Premium/README.md">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-↗-EF4444?style=for-the-badge" alt="Explore Project">
-</a>
+<p align="center">
+  <a href="https://github.com/PrashUpdates">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## 🍋‍🟩 Spotify Premium Section
-
-A responsive Spotify-inspired Premium pricing section built using HTML and CSS.
-
-<p>
-<a href="https://github.com/PrashUpdates/CLONES/blob/main/Spotify%20Premium/README.md">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-↗-10B981?style=for-the-badge" alt="Explore Project">
-</a>
+<p align="center">
+  💬 Open to collaboration, new ideas & exciting opportunities!
 </p>
-
-</td>
-</tr>
-</table>
+```
