@@ -36,7 +36,6 @@ Passionate about building modern websites, learning new technologies, and creati
 </p>
 
 
-```html
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -54,4 +53,3 @@ Passionate about building modern websites, learning new technologies, and creati
 <p align="center">
   💬 Open to collaboration, new ideas & exciting opportunities!
 </p>
-```
