@@ -39,10 +39,7 @@ Passionate about building modern websites, learning new technologies, and creati
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/PrashUpdates">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/prashant-shukla-b7557640b?utm_source=share_via&utm_content=profile&utm_medium=member_android/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
