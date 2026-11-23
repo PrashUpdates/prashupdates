@@ -36,13 +36,15 @@ Passionate about building modern websites, learning new technologies, and creati
 </p>
 
 
+
+
 ## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-shukla-b7557640b?utm_source=share_via&utm_content=profile&utm_medium=member_android/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:prashantupdate@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
